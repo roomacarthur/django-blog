@@ -12,3 +12,4 @@ libs:
 - Gunicorn
 - DJ-databse-url
 - All Auth
+- crispy-forms
