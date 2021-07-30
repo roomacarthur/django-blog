@@ -11,4 +11,4 @@ libs:
 - PsycoPG2
 - Gunicorn
 - DJ-databse-url
--
+- All Auth
